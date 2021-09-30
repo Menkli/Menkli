@@ -1,5 +1,5 @@
-### Hi there 👋
-![Test](https://raw.githubusercontent.com/Menkli/Menkli/main/451212.jpg)
+![Landscape](https://raw.githubusercontent.com/Menkli/Menkli/main/scape.jpg)
+### Hi there, I am Linda. 
 <!--
 **Menkli/Menkli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
