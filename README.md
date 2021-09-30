@@ -2,7 +2,7 @@
 ### Hi there, I am Linda. 
 
 I like programming in R. As a geoinformatics person I regularly use:  
-<!--
+
 <p align="center">
   <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
   <a href="https://github.com/rspatial/terra"><img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="50px"/></a>
@@ -14,7 +14,7 @@ I like programming in R. As a geoinformatics person I regularly use:
   <br>
     <a href="https://github.com/rstudio/leaflet">Leaflet</a> 
 </p>
-
+<!--
 **Menkli/Menkli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
