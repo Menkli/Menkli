@@ -10,7 +10,6 @@ I like programming in R. As a geoinformatics person I regularly use:
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/rstudio/rmarkdown"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rmarkdown.png" width="50px"/></a>
   <a href="https://github.com/yihui/knitr"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/knitr.png" width="50px"/></a>
- width="50px"/></a>
   <br>
     <a href="https://github.com/rstudio/leaflet">Leaflet</a> 
 </p>
