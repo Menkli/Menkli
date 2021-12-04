@@ -1,6 +1,8 @@
 ![Landscape](https://raw.githubusercontent.com/Menkli/Menkli/main/scape.jpg)
 ### Hi there, I am Linda. 
 
+[Visit my website](https://menkli.github.io/Menkli/)
+
 I like programming in R. As a geoinformatics person I regularly use:  
 
 <p align="center">
