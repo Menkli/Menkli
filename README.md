@@ -1,7 +1,7 @@
 ![Landscape](https://raw.githubusercontent.com/Menkli/Menkli/main/scape.jpg)
 ### Hi there, I am Linda. 
 
-<a href="https://menkli.github.io/Menkli/Menkli.html" title="Visit my website">Examples</a>
+<a href="https://menkli.github.io/Menkli/Menkli.html" title="Visit my website">Visit my website</a>
 
 I like programming in R. As a geoinformatics person I regularly use:  
 
