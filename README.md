@@ -1,7 +1,7 @@
 ![Landscape](https://raw.githubusercontent.com/Menkli/Menkli/main/scape.jpg)
 ### Hi there, I am Linda. 
 
-[Visit my website](https://menkli.github.io/Menkli/Menkli.html)
+[Visit my website](https://menkli.github.io/Menkli)
 <a href="https://menkli.github.io/CDL-RAII/TII-1-1-2-Uniform-grid/dggidR-test.html" title="Example">Examples</a>
 
 I like programming in R. As a geoinformatics person I regularly use:  
