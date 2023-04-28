@@ -1,4 +1,4 @@
-![Landscape](https://raw.githubusercontent.com/Menkli/Menkli/main/scape.jpg)
+![Landscape](https://raw.githubusercontent.com/Menkli/Menkli/main/Website_banner.PNG)
 ### Hi there, I am Linda. 
 
 <a href="https://menkli.github.io/Menkli/Menkli.html" title="Visit my website">Visit my website</a>
